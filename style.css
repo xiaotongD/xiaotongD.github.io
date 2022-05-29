@@ -1,8 +1,4 @@
 
- @font-face {
-  font-family:"Permanentmarker";
-  src:url("font/PermanentMarker.ttf");
-}
 .box{
   text-align : left;
   font-family: "Permanentmarker";

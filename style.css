@@ -3,9 +3,7 @@
   font-family: Permanentmarker;
   font-size:50px;
         }
-
-
 @font-face {
   font-family:Permanentmarker;
-  src:url("font/PermanentMarker.ttf")；
+  src:url("font/PermanentMarker.ttf");
 }

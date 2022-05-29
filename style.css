@@ -1,7 +1,9 @@
 
 .box{
   text-align : left;
-  font-family: "Impact";
-  src:url("font/PermanentMarker.ttf");
+  font-family: "Per";
   font-size:50px;
         }
+@font-face {
+	font-family:'Per'; 
+	src:url("font/PermanentMarker.ttf");

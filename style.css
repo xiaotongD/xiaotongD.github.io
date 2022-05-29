@@ -1,10 +1,10 @@
    .box{
     font-size:50px;
-    font-family:Per;
+    font-family:Permanent Marker;
    }
    
    
    @font-face {
-    font-family:Per;
+    font-family:Permanent Marker;
     src:url("font/PermanentMarker.ttf");
   }
